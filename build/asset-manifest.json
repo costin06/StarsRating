@@ -1,13 +1,13 @@
 {
-  "main.css": "/costin06/StarsReact/static/css/main.2bb5b0e5.chunk.css",
-  "main.js": "/costin06/StarsReact/static/js/main.7ee591fc.chunk.js",
-  "main.js.map": "/costin06/StarsReact/static/js/main.7ee591fc.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/costin06/StarsReact/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/costin06/StarsReact/static/js/1.324b6cf3.chunk.js.map",
-  "runtime~main.js": "/costin06/StarsReact/static/js/runtime~main.7060cc06.js",
-  "runtime~main.js.map": "/costin06/StarsReact/static/js/runtime~main.7060cc06.js.map",
-  "static/css/main.2bb5b0e5.chunk.css.map": "/costin06/StarsReact/static/css/main.2bb5b0e5.chunk.css.map",
-  "index.html": "/costin06/StarsReact/index.html",
-  "precache-manifest.1fa1dad038d46117f6a55834fc36d94b.js": "/costin06/StarsReact/precache-manifest.1fa1dad038d46117f6a55834fc36d94b.js",
-  "service-worker.js": "/costin06/StarsReact/service-worker.js"
+  "main.css": "/StarsRating/static/css/main.2bb5b0e5.chunk.css",
+  "main.js": "/StarsRating/static/js/main.7ee591fc.chunk.js",
+  "main.js.map": "/StarsRating/static/js/main.7ee591fc.chunk.js.map",
+  "static/js/1.324b6cf3.chunk.js": "/StarsRating/static/js/1.324b6cf3.chunk.js",
+  "static/js/1.324b6cf3.chunk.js.map": "/StarsRating/static/js/1.324b6cf3.chunk.js.map",
+  "runtime~main.js": "/StarsRating/static/js/runtime~main.3c62d2ce.js",
+  "runtime~main.js.map": "/StarsRating/static/js/runtime~main.3c62d2ce.js.map",
+  "static/css/main.2bb5b0e5.chunk.css.map": "/StarsRating/static/css/main.2bb5b0e5.chunk.css.map",
+  "index.html": "/StarsRating/index.html",
+  "precache-manifest.d1a30e530949ef12818f1695ef1e070d.js": "/StarsRating/precache-manifest.d1a30e530949ef12818f1695ef1e070d.js",
+  "service-worker.js": "/StarsRating/service-worker.js"
 }

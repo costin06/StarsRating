@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/costin06/StarsReact/precache-manifest.1fa1dad038d46117f6a55834fc36d94b.js"
+  "/StarsRating/precache-manifest.d1a30e530949ef12818f1695ef1e070d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/costin06/StarsReact/index.html", {
+workbox.routing.registerNavigationRoute("/StarsRating/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
