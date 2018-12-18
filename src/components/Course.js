@@ -6,6 +6,7 @@ const Course = (props) => {
     <div className="card">
       <div>
         <img src={process.env.PUBLIC_URL+ props.url} alt={props.name} />
+        {console.log( "Valoare : " + process.env.PUBLIC_URL)};
       </div>
       <h2>{ props.name }</h2>
       <p>{ props.desc }</p>
